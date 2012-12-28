@@ -1,0 +1,20 @@
+disqus: 'lighguardjpinfo'
+encoding: UTF-8
+title: 'News and information from LightGuardjp'
+author: 'LightGuardjp'
+asciidoc:
+  engine: asciidoctor
+haml:
+  attr_wrapper: '"'
+  escape_attrs: :once
+textile: ['no_span_caps']
+profiles:
+  development:
+    base_uri: 'http://localhost:4242'
+    disqus_developer: true
+    disqus_generate_id: true
+  production:
+    base_uri: 'http://www.lightguardjp.info'
+    base_url: 'http://www.lightguardjp.info'
+    google_analytics: 'UA-37280396-1'
+    minify: true

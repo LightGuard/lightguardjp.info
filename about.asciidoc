@@ -1,0 +1,42 @@
+---
+layout: base
+title: About LightGuardjp
+---
+== About the Author
+
+I'm hoping many of you have found this site through a search engine, probably
+looking for answers to some technical question you have which I have written
+about, a presentation I've given, or some other blog post I've written.
+
+I know from personal experience, I rarely view the about section on blogs 
+because I'm more concerned with the solution than actually getting to know the
+author. However, for those who do read this portion, I you are able to find the
+information you're after.
+
+=== Who Am I?
+
+Without going into the metaphysical, I'm a software engineer currently working
+at http://www.redhat.com/[Red Hat Inc]. I work on various Red Hat sponsored 
+Open Source projects including http://www.arquillian.org[Arquillian], http://forge.jboss.org/[Forge]
+http://www.jboss.org/jdf[jdf], and http://incubator.apache.org/deltaspike/[Apache DeltaSpike].
+You can also see other things I work on at my https://github.com/LightGuard[GitHub] page.
+
+Day job aside, I am also the father of four wonderful children: two girls and 
+two boys. They're all fairly close in age and we like it that way, at least
+most of the time. They're interests are constantly changing, though it seems
+the boys are more interested in what I do than the girls. My wife is an
+excellent cook (and I'm not the only one to think that) and loves to make
+delicious baked goods which I enjoy consuming.
+
+I was born and raised in Utah about 20 miles south of Salt Lake City. I am a
+member of the http://www.lds.org[Church of Jesus Christ of Latter-day Saints].
+I served an LDS mission in Southern Florida, the Florida Fort Lauderdale 
+mission to be exact, during 2002 - 2004 speaking Spanish. I have great
+memories and wonderful friends still in the area.
+
+=== Social Media
+
+I frequent most of the typical social networks including https://www.facebook.com/lightguard.jp[facebook],
+https://twitter.com/lightguardjp[Twitter], https://plus.google.com/110049315339873366294[Google+], 
+and http://www.linkedin.com/in/jasonporter/[LinkedIn]. My twitter and facebook 
+are linked, but mostly I'm on twitter.
