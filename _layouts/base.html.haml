@@ -26,19 +26,31 @@
                 %i.icon-home 
                 Home
             %li
-              %a{ :href=>"#{site.base_url}/tech", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Nerdy, technical musings"}}
+              %a.visible-desktop{ :href=>"#{site.base_url}/tech", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Nerdy, technical musings"}}
+                %i.icon-cogs
+                Technical Blog
+              %a.hidden-desktop{ :href=>"#{site.base_url}/tech"}
                 %i.icon-cogs
                 Technical Blog
             %li
-              %a{ :href=>"#{site.base_url}/religious", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Musings of a spiritual nature"}} 
+              %a.visible-desktop{ :href=>"#{site.base_url}/religious", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Musings of a spiritual nature"}} 
+                %i.icon-book
+                Religious Blog
+              %a.hidden-desktop{ :href=>"#{site.base_url}/religious"} 
                 %i.icon-book
                 Religious Blog
             %li
-              %a{ :href=>"#{site.base_url}/misc", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Random things"}} 
+              %a.visible-desktop{ :href=>"#{site.base_url}/misc", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Random things"}} 
+                %i.icon-cloud
+                Misc Blog
+              %a.hidden-desktop{ :href=>"#{site.base_url}/misc"} 
                 %i.icon-cloud
                 Misc Blog
             %li
-              %a{ :href=>"#{site.base_url}/presentations", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Presentations I've given, also nerdy and technical"}} 
+              %a.visible-desktop{ :href=>"#{site.base_url}/presentations", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Presentations I've given, also nerdy and technical"}} 
+                %i.icon-th-large
+                Presentations
+              %a.hidden-desktop{ :href=>"#{site.base_url}/presentations"} 
                 %i.icon-th-large
                 Presentations
             %li
