@@ -8,41 +8,43 @@
       body {
         padding-top: 60px;
       }
-    %link{:href=>"#{site.base_url}/stylesheets/bootstrap.min.css", :rel=>"stylesheet", :type=>"text/css"}
-    %link{:href=>"//netdna.bootstrapcdn.com/font-awesome/2.0/css/font-awesome.css", :rel=>"stylesheet", :type=>"text/css"}
-    %link{ :rel=>'stylesheet', :type=>'text/css', :href=>"#{site.base_url}/stylesheets/styles.css" }
+    %link{:href=>"#{site.base_url}/stylesheets/bootswatch.css", :rel=>"stylesheet", :type=>"text/css"}
     /[if lt IE 9]
       %script{ :type=>'text/javascript', :src=>'//html5shim.googlecode.com/svn/trunk/html5.js' }
     /[if IE 7]
-      %link{:href=>"//netdna.bootstrapcdn.com/font-awesome/2.0/css/font-awesome-ie7.css", :rel=>"stylesheet", :type=>"text/css"}
+      %link{:href=>"//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome-ie7.css", :rel=>"stylesheet", :type=>"text/css"}
   %body
     .navbar.navbar-fixed-top
       .navbar-inner
-        %ul.nav.pull-right
-          %li
-            %a{ :href=>"#{site.base_url}"} 
-              %i.icon-home 
-              Home
-          %li
-            %a{ :href=>"#{site.base_url}/tech", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Nerdy, technical musings"}}
-              %i.icon-cogs
-              Technical Blog
-          %li
-            %a{ :href=>"#{site.base_url}/religious", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Musings of a spiritual nature"}} 
-              %i.icon-book
-              Religious Blog
-          %li
-            %a{ :href=>"#{site.base_url}/misc", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Random things"}} 
-              %i.icon-cloud
-              Misc Blog
-          %li
-            %a{ :href=>"#{site.base_url}/presentations", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Presentations I've given, also nerdy and technical"}} 
-              %i.icon-th-large
-              Presentations
-          %li
-            %a{ :href=>"#{site.base_url}/about" } 
-              %i.icon-info-sign 
-              About LightGuardjp
+        %a.btn.btn-navbar{:data=>{:toggle=>"collapse", :target=>".nav-collapse"}, :style=>"color:black"}
+          Menu 
+          %i.icon-caret-down 
+        .nav-collapse.collapse
+          %ul.nav.pull-right
+            %li
+              %a{ :href=>"#{site.base_url}"} 
+                %i.icon-home 
+                Home
+            %li
+              %a{ :href=>"#{site.base_url}/tech", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Nerdy, technical musings"}}
+                %i.icon-cogs
+                Technical Blog
+            %li
+              %a{ :href=>"#{site.base_url}/religious", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Musings of a spiritual nature"}} 
+                %i.icon-book
+                Religious Blog
+            %li
+              %a{ :href=>"#{site.base_url}/misc", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Random things"}} 
+                %i.icon-cloud
+                Misc Blog
+            %li
+              %a{ :href=>"#{site.base_url}/presentations", :rel=>"tooltip", :data=>{:placement=>"bottom", :"original-title"=>"Presentations I've given, also nerdy and technical"}} 
+                %i.icon-th-large
+                Presentations
+            %li
+              %a{ :href=>"#{site.base_url}/about" } 
+                %i.icon-info-sign 
+                About LightGuardjp
     .container
       ~ content
       %hr/
@@ -68,7 +70,7 @@
                 %br/
                 &#169; Copyright 2012-#{DateTime.now.year} Jason Porter.
     %script{:src=>"https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js", :type=>"text/javascript"}
-    %script{:src=>"https://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/js/bootstrap.min.js", :type=>"text/javascript"}
+    %script{:src=>"https://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js", :type=>"text/javascript"}
     :javascript
       $(document).ready(function() {
         $('.nav a').tooltip();

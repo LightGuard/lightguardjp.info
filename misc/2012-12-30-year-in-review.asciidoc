@@ -1,0 +1,146 @@
+---
+title: 2012 in Review
+layout: post
+author: LightGuardjp
+---
+This is an attempt at making a full year review. It's also the first blog post 
+on my new blog! It may end up being fairly short, but you never know. Maybe 
+the writing bug will take hold.
+
+== First Quarter
+
+The first quarter of our years start off fairly busy with holidays and the 
+birthdays. Of course we have New Years to kick things off, then we have a 
+couple of birthdays. We ended this first quarter with me going to 
+http://www.devnexus.com/s/index[DevNexus] and presenting.
+
+=== January
+
+I can honestly say I don't remember what my New Year's resolution was this year
+but I don't think it matters, we all know how well those typically end up by
+the end of the month, let alone the end of a year. It may have had something
+to do with blogging, but I think that was a previous year :) Oh well.
+
+My first born son turned two at the end of the month. Again, I don't recall
+much of his birthday, but this year has been a good year for him. I find it
+interesting how they're called the Terrible Twos, but three is so much worse,
+at least that's how it's been for our first two children, and looking like it
+be the same for our first son. The joys of having young children. We've been
+told to cherish these times because once they're teenagers all bets are off.
+
+=== February
+
+Each year we remember my father during his birthday and also Father's Day. He
+passed away in June 2006. My first brother also has a birthday toward the end
+of February. On the 18^th^ there's the anniversary of my wife's and my first
+date. Other than that, February is a pretty quiet month for us.
+
+=== March
+
+The only thing I remember about March is my trip to Atlanta and speaking at
+http://www.devnexus.com/s/index[DevNexus]. You can download the presentation at
+my https://github.com/LightGuard/devnexus_2012_presentation/tree/master/presentation[GitHub project].
+I spoke to a whooping six people about CDI and DeltaSpike. I had a good time
+though and had the opportunity to meet some of the http://projectodd.org/[project:odd]
+team. I also met http://www.linkedin.com/in/jpcurran[Patrick Curran].
+
+== Second Quarter
+
+With as large a family as we have, it's inevitable there will birthdays every
+quarter. There's actually three in this quarter: our second son, and both mine
+and my wife's.
+
+=== April
+
+Our second son was born the 6^th^ of April, two days after I officially started
+with Red Hat. This was first full year with Red Hat and it's been a great ride
+thus far. I'm really enjoying things with Red Hat and had a great first year
+anniversary with them. Our youngest and second son started walked just a little
+bit before his birthday (if I remember correctly) and has been going nonstop
+ever since. He certainly keeps us on our toes.
+
+Those of you following me on https://www.twitter.com/lightguardjp[twitter] will
+recall the large postings about the LDS General Conference that happened in 
+April.  I always love Conference, great messages and good times with my family.  
+
+We splurged a little (okay, a lot) with our tax return and purchased an iPad
+which of course has been used more by the children than by us since we bought
+it. I guess that's only par.
+
+=== June
+
+June is our big birthday month with both me and my wife having birthdays this 
+month, as well as my youngest brother. Summer time is great here in Utah 
+except for the heat. Thankfully we don't live further South. We were thinking 
+of purchasing a new evaporative cooler this year, but bought a ceiling fan and 
+a portable air conditioner.  The fan was a great purchase (took a very long 
+time to install, that's a tale for a different time), the air conditioner, not 
+as much. I changed the pads on the cooler and plugged some holes and got us 
+back to a respectable temperature during the day for the summer.
+
+== Third Quarter
+
+Fortunately things for the rest of the year quieted down a bit, until you get to
+the end of the year and have all the holidays.
+
+=== July
+
+Two events of large importance in July this year were Red Hat Summit in Boston
+and my youngest brother leaving to serve an LDS mission. Dropping off my 
+brother was difficult for my mother, but was certainly different than other 
+times as it's now just a drop off. Say your goodbyes and watch them walk into
+the Missionary Training Center.
+
+Red Hat Summit was great for me. I met a bunch of new people and was able to
+reconnect with some coworkers I hadn't seen for a while. That's part of being
+on a distributed team: you don't see each other very much. Calls and video chat
+help of course, but it's not quite the same as being there in person with people.
+
+=== August
+
+Biggest thing here is our anniversary, which unfortunately I didn't do very well
+this year. You can ask my wife for all the details, or lack thereof. Our first
+born has a birthday in August as well which was really fun for her. She's six and
+enjoys birthdays now. We did a Build-a-Bear knock off party which wasn't nearly
+as much fun as I was expecting and was much more expensive than I thought it 
+should have been, but that happens some times.
+
+We also prepared her for first grade. Fortunately she loves school and was 
+excited to be going back. We bought all the typical back to school supplies and
+quickly found that they were lost, forgotten or broken :(. I guess that's just
+the way it works.
+
+== End of the Year
+
+I'll just lump the last three months of the year into one because they all seem
+to go by so quickly. Our second child had a birthday in October, she's four now
+and fortunately seems to be exiting the horrible stage now. All of us dressed up
+for Halloween this year which we haven't done for a long time. We all had a lot
+of fun going around and getting candy. Fortunately it wasn't very cold and the
+kids had a blast going around and seeing everyone in their costumes.
+
+Thanksgiving didn't pan out as we had planned because we had car issues we needed
+to take care of. Instead we had a great Thanksgiving dinner with some cousins and
+the kids were able to ride a horse, something they've never done before. They had
+a blast! Right after Thanksgiving I flew down to Fort Lauderdale for a conference,
+https://therichwebexperience.com/[RWX] to be precise. I was able to visit with 
+some friends I made while I was down there as a missionary. I had a wonderful 
+time there, met some great people, reconnected with some old friends, and my 
+room had an awesome oceanside view. Very enjoyable all around. I one talk on my
+own, which for the few people that were there was very well received, and one
+where I was co-presenting with Dan Allen. Great things happened in all of these
+talks and people really enjoyed them. If I end up going back, I'm going to have
+to bring my wife.
+
+On to the end of the year! I'm sure Christmas time is great for any family with
+young children (after the rush for presents, the whining and everything else).
+I know we all enjoyed Christmas this year. My wife I think has finally realised
+she'll be going to Miami with me in February and is already planning things to
+do for the two days while I'm in meetings. That has thus far been the best
+Christmas present I have gotten her. Of course the dresses she wanted would 
+have cost less and been more practical, but I think she likes the trip better 
+than she would have the dresses.
+
+That should pretty much wrap up our year. It ended up being longer than I was
+thinking it was going to be, but it was fun writing it, almost like a journal
+entry. Until next time!

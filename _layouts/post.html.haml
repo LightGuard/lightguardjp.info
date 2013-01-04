@@ -1,14 +1,19 @@
+---
+layout: base
+--- 
 #content
   %article
     %header.page-header
       %h1.title
-        %a{:href=>page.qurl}= page.title
+        %a{:href=>page.url}= page.title
       .meta
         %time= page.date.strftime("%B %e, %Y")
+        .author
+          #{page.author}
     .content
-      = ~ page.content
+      ~ page.content
     %footer
-      -# TODO: disqus, tags
+      -# TODO: tags
       .comments
         - if site.disqus
           = page.disqus_comments
