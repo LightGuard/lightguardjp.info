@@ -1,2 +1,7 @@
 Guardfile
 stylesheets/less
+vendor
+Gemfile
+Gemfile.lock
+config.ru
+config.ru.bak
