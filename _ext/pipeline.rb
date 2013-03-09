@@ -1,4 +1,5 @@
 require 'truncate'
+require 'awestruct/extensions/minify'
 
 Awestruct::Extensions::Pipeline.new do
   extension Awestruct::Extensions::Posts.new('/tech', :tech) 

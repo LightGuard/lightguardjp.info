@@ -7,7 +7,6 @@ asciidoc:
 haml:
   attr_wrapper: '"'
   escape_attrs: :once
-textile: ['no_span_caps']
 profiles:
   development:
     base_uri: 'http://localhost:4242'
