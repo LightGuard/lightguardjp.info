@@ -3,14 +3,14 @@ layout: base
 title: Religious blog posts
 ---
 - if site.religious.empty?
-  %h1 No posts for this section
+  h1 No posts for this section
 - for post in site.religious
   .post
-    %h1
-      %a{:href=>post.qurl}= post.title
-    %h2 
+    h1
+      a( href=post.url ) = post.title
+    h2 
       = post.date.strftime( '%d %B %Y' )
     .content
       = truncate(post.content)
     .news-footer
-      %a{:href=>"#{site.base_url}#{post.url}"} Read Full Post
+      a( href="#{site.base_url}#{post.url}" ) Read Full Post

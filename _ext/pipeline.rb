@@ -1,5 +1,6 @@
 require 'truncate'
-require 'awestruct/extensions/minify'
+require 'slim'
+require 'asciidoctor'
 
 Awestruct::Extensions::Pipeline.new do
   extension Awestruct::Extensions::Posts.new('/tech', :tech) 

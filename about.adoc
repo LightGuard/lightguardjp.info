@@ -1,7 +1,6 @@
----
-layout: base
-title: About LightGuardjp
----
+= About the Author
+:awestruct-layout: base
+
 == About the Author
 
 I'm hoping many of you have found this site through a search engine, probably
@@ -13,7 +12,7 @@ because I'm more concerned with the solution than actually getting to know the
 author. However, for those who do read this portion, I you are able to find the
 information you're after.
 
-=== Who Am I?
+== Who Am I?
 
 Without going into the metaphysical, I'm a software engineer currently working
 at http://www.redhat.com/[Red Hat Inc]. I work on various Red Hat sponsored 
@@ -34,7 +33,7 @@ I served an LDS mission in Southern Florida, the Florida Fort Lauderdale
 mission to be exact, during 2002 - 2004 speaking Spanish. I have great
 memories and wonderful friends still in the area.
 
-=== Social Media
+== Social Media
 
 I frequent most of the typical social networks including https://www.facebook.com/lightguard.jp[facebook],
 https://twitter.com/lightguardjp[Twitter], https://plus.google.com/110049315339873366294[Google+], 

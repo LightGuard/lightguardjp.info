@@ -6,7 +6,7 @@ asciidoc:
   engine: asciidoctor
 haml:
   attr_wrapper: '"'
-  escape_attrs: :once
+#  escape_attrs: :once
 profiles:
   development:
     base_uri: 'http://localhost:4242'

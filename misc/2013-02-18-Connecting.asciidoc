@@ -1,8 +1,7 @@
----
-title: Connecting, are we too connected?
-layout: post
-author: LightGuardjp
----
+= Connecting, are we too connected?
+LightGuardjp
+2013-02-18
+
 I finished watching _Connecting_ today and it's stirred some thoughts.
 My first inclination of course was to tweet about it, but I quickly decided that wouldn't work well, not enough space.
 Here I am writing a blog post about it instead. You can see the video below if you haven't seen it yet:

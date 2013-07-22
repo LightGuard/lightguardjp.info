@@ -1,8 +1,7 @@
----
-title: 2012 in Review
-layout: post
-author: LightGuardjp
----
+= 2012 in Review
+LightGuardjp
+2012-12-30
+
 This is an attempt at making a full year review. It's also the first blog post 
 on my new blog! It may end up being fairly short, but you never know. Maybe 
 the writing bug will take hold.
